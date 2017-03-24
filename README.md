@@ -1,0 +1,1 @@
+# scalaExercisesW1
